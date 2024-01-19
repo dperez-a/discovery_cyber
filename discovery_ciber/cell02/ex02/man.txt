@@ -1,0 +1,1 @@
+You are cracking so well, now more things (hashcat, and hash with the diferent options of decryption formats
